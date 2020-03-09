@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<hr />
+
+<div class="jumbtron">
+    <h1 class="display-4 text-center">Product Page</h1>
+    <hr>
+
+    <div class="row">
+        <div class="col-md-4" >
+            @{
+                Html.RenderAction("Add_P");
+            }
+        </div>
+        <div id=PartialListProduts class="col-md-8" >
+            @{Html.RenderAction("Display_P");}
+
+
+        </div>
+    </div>
+</div>

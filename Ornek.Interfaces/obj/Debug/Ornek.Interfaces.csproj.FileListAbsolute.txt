@@ -1,0 +1,5 @@
+C:\asp\Eg\Ornek\Ornek.Interfaces\bin\Debug\Ornek.Interfaces.dll
+C:\asp\Eg\Ornek\Ornek.Interfaces\bin\Debug\Ornek.Interfaces.pdb
+C:\asp\Eg\Ornek\Ornek.Interfaces\obj\Debug\Ornek.Interfaces.csprojAssemblyReference.cache
+C:\asp\Eg\Ornek\Ornek.Interfaces\obj\Debug\Ornek.Interfaces.dll
+C:\asp\Eg\Ornek\Ornek.Interfaces\obj\Debug\Ornek.Interfaces.pdb

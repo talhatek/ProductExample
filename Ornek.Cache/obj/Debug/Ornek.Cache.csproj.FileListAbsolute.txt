@@ -1,0 +1,4 @@
+C:\asp\Eg\Ornek\Ornek.Cache\bin\Debug\Ornek.Cache.dll
+C:\asp\Eg\Ornek\Ornek.Cache\bin\Debug\Ornek.Cache.pdb
+C:\asp\Eg\Ornek\Ornek.Cache\obj\Debug\Ornek.Cache.dll
+C:\asp\Eg\Ornek\Ornek.Cache\obj\Debug\Ornek.Cache.pdb

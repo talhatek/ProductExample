@@ -1,0 +1,11 @@
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\Ornek.Entities.dll.config
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\Ornek.Entities.dll
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\Ornek.Entities.pdb
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\EntityFramework.dll
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\EntityFramework.xml
+C:\asp\Eg\Ornek\Ornek.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp\Eg\Ornek\Ornek.Entities\obj\Debug\Ornek.Entities.csprojAssemblyReference.cache
+C:\asp\Eg\Ornek\Ornek.Entities\obj\Debug\Ornek.Entities.csproj.CopyComplete
+C:\asp\Eg\Ornek\Ornek.Entities\obj\Debug\Ornek.Entities.dll
+C:\asp\Eg\Ornek\Ornek.Entities\obj\Debug\Ornek.Entities.pdb

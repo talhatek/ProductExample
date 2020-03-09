@@ -1,0 +1,41 @@
+﻿
+@model Ornek.Entities.Models.Products
+@{ Layout = null;
+
+}
+<h1>   Register Product </h1>
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+<form id="frm-product">
+    <input type="hidden" id="_ProductID" name="_ProductID">
+    <div class="form-group">
+        <input id=ProductName name="ProductName" class="form-control" placeholder="Product Name">
+    </div>
+    <div class="form-group">
+        <input id=Barcode name="Barcode" class="form-control" placeholder="Barcode No">
+    </div>
+    <div class="form-group">
+        @Html.DropDownListFor(model => model.Category, new SelectList(ViewBag.Categories, "CategoryID", "CategoryName"), "Choose a category", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <input  id=unit_price name="UnitPrice" class="form-control" placeholder="Unit Price">
+    </div>
+    <div class="form-group">
+        <input type="number" id=Stock_Quantity name="StockQuantity" class="form-control" placeholder="Stock Quantity">
+    </div>
+
+    <div class="form-group">
+        <input id=Description name="Description" class="form-control" placeholder="Description">
+    </div>
+
+    <div class="form-group">
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="_IsActive" name="_IsActive">
+            <label class="form-check-label" for="gridCheck">
+                Active/Inactive
+            </label>
+        </div>
+    </div>
+    <div class="form-group">
+        <button id="btn" class="btn btn-success" type="button" onclick="ProductAdd()">Kaydet</button>
+    </div>
+</form>

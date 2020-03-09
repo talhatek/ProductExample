@@ -1,0 +1,16 @@
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Bll.dll
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Bll.pdb
+C:\asp\Eg\Ornek\Ornek.Bll\obj\Debug\Ornek.Bll.csprojAssemblyReference.cache
+C:\asp\Eg\Ornek\Ornek.Bll\obj\Debug\Ornek.Bll.dll
+C:\asp\Eg\Ornek\Ornek.Bll\obj\Debug\Ornek.Bll.pdb
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Dal.dll
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Interfaces.dll
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\EntityFramework.dll
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Entities.dll
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Dal.pdb
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Dal.dll.config
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Interfaces.pdb
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\EntityFramework.xml
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Entities.pdb
+C:\asp\Eg\Ornek\Ornek.Bll\bin\Debug\Ornek.Entities.dll.config
+C:\asp\Eg\Ornek\Ornek.Bll\obj\Debug\Ornek.Bll.csproj.CopyComplete
